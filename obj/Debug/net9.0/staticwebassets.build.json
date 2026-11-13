@@ -1,0 +1,12 @@
+{
+  "Version": 1,
+  "Hash": "mbk9aOMysCmGkdsH9SjgW+GKEd3d1LwjBLV6RwNzV7E=",
+  "Source": "wt-lab6-minimalapi-besman",
+  "BasePath": "_content/wt-lab6-minimalapi-besman",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": [],
+  "Endpoints": []
+}
